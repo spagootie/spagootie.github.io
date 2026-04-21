@@ -195,6 +195,15 @@ img { max-width: 100%; display: block; }
     border: 3px solid #0096ff;
 }
 
+.video {
+    text-align: center;
+    position: relative;
+    top: 20px;
+    border-radius: 20px;
+    border: 3px solid #0096ff;
+    width: 560px;
+}
+
 .btn {
   display: inline-flex;
   align-items: center;
@@ -513,6 +522,7 @@ img { max-width: 100%; display: block; }
 footer {
   border-top: 1px solid var(--line);
   background: rgba(0,0,0,0.16);
+  margin: 48px;
 }
 
 .footer-inner {
