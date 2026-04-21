@@ -521,8 +521,8 @@ img { max-width: 100%; display: block; }
 
 footer {
   border-top: 1px solid var(--line);
-  background: rgba(0,0,0,0.16);
-  margin: 48px;
+  background:rgba(0,0,0,0.16);
+  margin: 48px 0px 0px 0px;
 }
 
 .footer-inner {
