@@ -14,16 +14,17 @@
           <div class="brand-mark">✦</div>
           <div>
             <h1>Deckmate</h1>
-            <p>The card-chess hybrid</p>
+            <p>The card game companion</p>
           </div>
         </div>
 
         <nav class="nav-links" aria-label="Primary">
           <a href="#features">Features</a>
           <a href="#how-it-works">How it works</a>
+          <a href="#reviews">Reviews</a>
         </nav>
 
-        <a class="btn btn-primary" href="#cta">Watch demo</a>
+        <a class="btn btn-primary" href="#cta">Watch trailer</a>
         <button class="menu-btn" id="menuBtn" aria-label="Toggle menu" aria-expanded="false">☰</button>
       </div>
       <div class="mobile-links" id="mobileLinks">
@@ -38,12 +39,14 @@
     <section class="hero">
       <div class="container hero-grid">
         <div>
+          <div class="badge">✦ New strategy card game experience</div>
           <h2>Deckmate</h2>
           <p>
           A fast, strategic take on classic chess where cards drive every action.
           </p>
           <div class="cta-row">
-            <a class="btn btn-primary" href="https://github.com/sccapstone/RoyalFlush">Get the game →</a>
+            <a class="btn btn-primary" href="#cta">Get the game →</a>
+            <a class="btn btn-outline" href="#how-it-works">Learn how to play</a>
           </div>
           <div class="stats">
             <div class="stat"><strong>1-2</strong><span>Players</span></div>
@@ -167,7 +170,7 @@
         </div>
       </div>
     </section>
-<!--
+
     <section class="section" id="reviews">
       <div class="container">
         <div class="section-head">
@@ -199,7 +202,6 @@
       </div>
     </section>
 
--->
     <section class="cta" id="cta">
       <div class="container">
         <div class="cta-card">
