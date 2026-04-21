@@ -187,6 +187,14 @@ img { max-width: 100%; display: block; }
   margin-top: 28px;
 }
 
+.image {
+    text-align: center;
+    position: relative;
+    top: 20px;
+    border-radius: 20px;
+    border: 3px solid #0096ff;
+}
+
 .btn {
   display: inline-flex;
   align-items: center;
