@@ -195,6 +195,17 @@ img { max-width: 100%; display: block; }
     border: 3px solid #0096ff;
 }
 
+.image-row {
+  display: flex;
+  gap: 10px; /* space between images */
+}
+
+.image-row img {
+  width: 100%;       /* makes them scale evenly */
+  max-width: 33.33%; /* 3 images per row */
+  height: auto;
+}
+
 .video {
     text-align: center;
     position: relative;
